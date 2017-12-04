@@ -1,6 +1,6 @@
 
 var audio = new Audio('http://listen.shoutcast.com/cowboyradio');
-audio.volume = 1.0;
+audio.volume = 0.8;
 audio.play();
 
 $('.trigger').click(function() {
