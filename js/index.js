@@ -1,5 +1,5 @@
 
-var audio = new Audio('http://www.abcradiobd.fm/radio.html');
+var audio = new Audio('http://ample-zeno-01.radiojar.com/6a28tbx6vewtv?rj-ttl=5&rj-token=AAABYDA1LGnmUebAoGNnWE8_Ze5NoR4vu4vKMze6wNXJ7vQkykv68g');
 audio.volume = 0.8;
 audio.play();
 
