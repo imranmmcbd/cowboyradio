@@ -1,5 +1,5 @@
 
-var audio = new Audio('http://listen.shoutcast.com/cowboyradio');
+var audio = new Audio('http://www.abcradiobd.fm/radio.html');
 audio.volume = 0.8;
 audio.play();
 
